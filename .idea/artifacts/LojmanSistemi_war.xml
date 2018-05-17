@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="LojmanSistemi:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="lojmansistemi.war">
+      <element id="artifact" artifact-name="LojmanSistemi:war exploded" />
+    </root>
+  </artifact>
+</component>
